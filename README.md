@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**InaldoSilva/inaldosilva** from ✨ 🇧🇷 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**InaldoSilva/inaldosilva** from ✨ 🇧🇷 ✨ 
 
 Here are some ideas to get you started:
 
