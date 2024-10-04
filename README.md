@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-**InaldoSilva/inaldosilva** from ✨ 🇧🇷 ✨ 
+**InaldoSilva/inaldosilva** from 🇧🇷  
 
-Here are some ideas to get you started:
+About me
 
 - 👨‍🎓 Data Scientist and Web Developer 💻
 - 🔭 I’m currently working as IT Tech Support at ANIMA Ecossistem and Freelancer Developer 
